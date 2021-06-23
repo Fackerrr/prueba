@@ -1,6 +1,6 @@
 <<<<<<< HEAD
 # hola
-NADA
+HOLA
 
 =======
 
