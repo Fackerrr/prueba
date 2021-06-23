@@ -1,11 +1,6 @@
 <<<<<<< HEAD
 # hola
-
-sfoand+
-
-ad
-ad
-
+NADA
 
 =======
 
